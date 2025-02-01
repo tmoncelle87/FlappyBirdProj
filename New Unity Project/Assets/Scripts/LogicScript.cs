@@ -37,7 +37,7 @@ public class LogicScript : MonoBehaviour
         // Loads the game over scene. (Duplicate of gameOver())
         SceneManager.LoadScene(GameOverScreen);
     }
-
+#test
     public void QuitGame()
     {
         // Quits the application.
